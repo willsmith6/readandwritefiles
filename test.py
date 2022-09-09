@@ -1,5 +1,5 @@
 def main():
-    
+    '''
     import csv
 
     infile = open('steps.csv','r')
@@ -60,5 +60,5 @@ def main():
 
 
         #outfile.write('Monthly Average: ')
-        
+       ''' 
 main()
